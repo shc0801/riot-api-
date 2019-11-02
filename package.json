@@ -1,0 +1,28 @@
+{
+  "name": "r",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shc0801/r.git"
+  },
+  "author": "shc0801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shc0801/r/issues"
+  },
+  "homepage": "https://github.com/shc0801/r#readme",
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "asar": "^2.0.1",
+    "electron": "^7.0.1",
+    "electron-packager": "^14.1.0"
+  }
+}
