@@ -16,3 +16,4 @@ req.get(`${url}${name}?api_key=${key}`, (err, res, body)=>{
 });
 
 //10.114.52.99.9090
+//gmsgondr.net
